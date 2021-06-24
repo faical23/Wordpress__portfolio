@@ -1,4 +1,4 @@
-##Contexte du projet
+====> Contexte du projet
 
 Consolider la recherche déjà effectué à propos du CMS dans un document.
 
@@ -29,3 +29,25 @@ Ajouter une page "CV" contenant votre cv
 ​
 
 Vous pouvez ajouter les extensions que vous jugez nécessaires pour faciliter votre travail
+
+
+======> what you need to install the projet
+
+
+Installation:
+
+- Installation du wordpress sur: https://wordpress.org/download/
+
+- Création d'une base de donnée MYSQL nommé: portfolio
+
+- Installation de wordpress: http://localhost/portfolio/
+
+- Configuration: username: faical, Password: faical
+
+- Téléchargement du plugin ELEMENTOR PRO , STARTER
+
+- Template used : https://websitedemos.net/portfolio-02/
+
+- Edition du Demo avec ELEMENTOR PRO.
+
+- Sauvegarder.
